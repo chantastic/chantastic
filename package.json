@@ -1,0 +1,12 @@
+{
+  "name": "chantastic",
+  "version": "1.0.0",
+  "description": "Michael Chan, the person",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "cat info.json"
+  },
+  "keywoards": ["person", "contact"],
+  "author": "Michael Chan @chantastic",
+  "license": "MIT"
+}
